@@ -21,4 +21,5 @@ Open your browser and visit http://localhost:3000
 1. Clone the repository:
 ```bash
 git clone https://github.com/your-username/stunning-hero-section.git
+https://www.loom.com/share/da07f8ef2832487b9d570d1bd088b7de
 
