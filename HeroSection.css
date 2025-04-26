@@ -1,0 +1,25 @@
+/* HeroSection.css */
+.hero-container {
+  @apply flex flex-col items-center justify-center p-8 bg-gradient-to-r from-blue-500 to-green-500 text-white min-h-screen;
+}
+
+.hero-title {
+  @apply text-4xl font-bold mb-4 text-center;
+}
+
+.hero-subtitle {
+  @apply text-lg mb-6 text-center;
+}
+
+
+.hero-buttons {
+  @apply flex gap-4 mb-6;
+}
+
+.hero-button-blue {
+  @apply px-6 py-3 bg-blue-500 text-white rounded-lg hover:bg-blue-600 transition;
+}
+
+.hero-button-green {
+  @apply px-6 py-3 bg-green-500 text-white rounded-lg hover:bg-green-600 transition;
+}
